@@ -1,5 +1,7 @@
-# laravel_mysql_app
-Laravel and mysql are used in this project.
+# coreui-laravel
+CoreUI-laravel is simple adaptation to Laravel the most beautiful free Bootstrap 4 admin template created by Lukasz Holeczek
+
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_charts.png)
 
 ### Instalation in 5 steps
 ```bash
@@ -29,3 +31,22 @@ DB_PASSWORD=
 ```bash
 	php artisan migrate:fresh --seed
 ``` 
+
+
+
+##### That's all. Enjoy.
+
+### Change log
+##### v 1.0.6a
+##### v 1.0.6
+- Update to CoreUI 1.0.6
+- In gulpfile.js prepared scripts to import libraries and app files to /public directory
+
+## Screenshots
+
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_charts.png)
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_cards.png)
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_charts.png)
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_switches.png)
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_tabs.png)
+![alt text](https://raw.githubusercontent.com/taboritis/coreui-laravel/master/sample_widgets.png)
